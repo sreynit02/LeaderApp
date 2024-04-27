@@ -10,7 +10,7 @@ This application is to be used in conjunction with the Follower application. Thi
 ## Instruction to Access Live Video
 1) Enable the Developer setting on the HoloLens2 by going to Settings>Updates>For Developer>Toggle Button to Enable Developer Mode.
 2) Get the IP Address of the HoloLens2 by going to Settings>Network&Internet>Select the network you are connected to>Advance Setting>Get the iPv4 address
-3) On a web browser go to https://[iPv4]. There will be a warning that it is unsafe but just click Proceed with unsafe.
+3) Make sure you have a computer that is connected to the same wifi as the HoloLens2. On a web browser go to https://[iPv4]. There will be a warning that it is unsafe but just click Proceed with unsafe.
 4) Enter login information set up for your Hololens portal. Now, you have access to the HoloLens Portal.
 5) On the Hololens Portal navigate to View> Mixed Reality Capture> Start Live Preview. Set the live preview quality to Low (240p, 15fps, 0.6MBits) so that the latency is not so bad. If the video stops playing just stop the live preview and start it again.
 
